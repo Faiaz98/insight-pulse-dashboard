@@ -2,9 +2,9 @@
 
 A clean, professional-grade React + Tailwind CSS dashboard that tracks user session activity, logs timestamps, shows real-time stats, and includes a debounced search input. This project combines essential frontend concepts like:
 
-- JavaScript closures & debounce functions (Day 1)
-- Custom timers, `bind/call/apply`, and session control (Day 2)
-- `useMemo` for performance optimization, Tailwind Box Model, and render control (Day 3)
+- JavaScript closures & debounce functions
+- Custom timers, `bind/call/apply`, and session control
+- `useMemo` for performance optimization, Tailwind Box Model, and render control
 
 ---
 
